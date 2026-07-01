@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagham Daban</h1>
 
 <h3 align="center">
-Software Developer | Frontend Developer | Future Full-Stack Engineer
+Software Engineer  | Frontend Developer | Full-Stack Developer
 </h3>
 
 ---
