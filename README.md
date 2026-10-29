@@ -73,14 +73,16 @@ Software Engineer focused on full-stack development, with hands-on experience bu
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
+
 <h3>AI Development</h3>
 
 <p>
   <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-202123?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
+
 
 
 ---
@@ -148,6 +150,6 @@ Beyond building applications from scratch, I've worked on maintaining and improv
 
 I'm interested in software engineering opportunities where I can contribute to building and improving real-world applications.
 
-**GitHub:** [github.com/nagam6](https://github.com/nagam6)
+**LinkedIn:** [https://www.linkedin.com/in/nagham-daban]
 
 
