@@ -150,6 +150,5 @@ Beyond building applications from scratch, I've worked on maintaining and improv
 
 I'm interested in software engineering opportunities where I can contribute to building and improving real-world applications.
 
-**LinkedIn:** [https://www.linkedin.com/in/nagham-daban]
-
+[LinkedIn](https://www.linkedin.com/in/nagham-daban)
 
