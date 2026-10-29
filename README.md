@@ -25,46 +25,63 @@ Software Engineer focused on full-stack development, with hands-on experience bu
 
 ---
 
-## Tech Stack
 
-**Languages**
+<h2>🛠️ Tech Stack</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=mysql&logoColor=4479A1)
+<h3>Languages</h3>
 
-**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-333333?style=flat-square&logo=redux&logoColor=764ABC)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-333333?style=flat-square&logo=reactquery&logoColor=FF4154)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css&logoColor=1572B6)
+<h3>Frontend</h3>
 
-**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-333333?style=flat-square&logo=firebase&logoColor=FFCA28)
+<h3>Backend & Databases</h3>
 
-**Development Tools & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)
-![Jira](https://img.shields.io/badge/Jira-333333?style=flat-square&logo=jira&logoColor=0052CC)
-![Vitest](https://img.shields.io/badge/Vitest-333333?style=flat-square&logo=vitest&logoColor=6E9F18)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
-![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-333333?style=flat-square&logo=render)
+<h3>Development Tools & Deployment</h3>
 
-**AI Development**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
-AI API Integration · AI-Assisted Development · Codex · Gemini
+<h3>AI Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-202123?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
 
 ---
 
