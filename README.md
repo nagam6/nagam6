@@ -1,70 +1,136 @@
-<h1 align="center">Hi 👋, I'm Nagham Daban</h1>
 
-<h3 align="center">
-Software Engineer  | Frontend Developer | Full-Stack Developer
-</h3>
+<div align="center">
 
----
+# Hi, I'm Nagham Daban 👋
 
-## 👩‍💻 About Me
+### Software Engineer | Full-Stack Developer
 
-🔭 Currently working on
-Building real-world web applications and expanding my Full-Stack development skills.
+Building full-stack applications, improving software reliability, and integrating AI into real-world projects.
 
-🌱 Currently learning
-Advanced React Patterns, TypeScript, Docker, CI/CD, and Cloud Computing.
+[GitHub](https://github.com/nagam6) · [LinkedIn](https://www.linkedin.com/in/)
 
-💻 Building projects to strengthen my frontend and backend development skills.
-
-🎯 Passionate about creating modern, clean, and user-friendly web experiences.
-
-🛍️ Founder of an online jewelry brand .
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-<p align="left">
+Software Engineer focused on full-stack development, with hands-on experience building, debugging, and improving web applications.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/1b3c1f020909d47c98e2a00b9e5484c252c84684ed3573ffff1e9ee721421887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/52c0c5b386bea67caa17cd025153547675d5f81a38e621aed2ca77969e35d2f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
+- Working across frontend and backend development, APIs, and databases.
+- Experienced in debugging, regression testing, and improving existing codebases.
+- Integrated AI capabilities into an interactive educational application.
+- Led two software project teams, coordinating development tasks and contributing directly to implementation and delivery.
+- Experienced with collaborative development workflows, code reviews, Git, and Jira.
 
 ---
 
-## 🚀 Latest Project 
+## Tech Stack
 
-### 🎮 2D Minecraft Game
+**Languages**
 
-A browser-based Minecraft-inspired game built with **HTML, CSS, and JavaScript** using **DOM Manipulation** and a **Matrix-based game world**.
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=mysql&logoColor=4479A1)
 
-**Highlights:**
+**Frontend**
 
--  Interactive game world
--  Functional mining tools
--  Inventory system
--  Responsive design
--  Sound effects
--  Home & Reset functionality
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-333333?style=flat-square&logo=redux&logoColor=764ABC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-333333?style=flat-square&logo=reactquery&logoColor=FF4154)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css&logoColor=1572B6)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-333333?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**Development Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)
+![Jira](https://img.shields.io/badge/Jira-333333?style=flat-square&logo=jira&logoColor=0052CC)
+![Vitest](https://img.shields.io/badge/Vitest-333333?style=flat-square&logo=vitest&logoColor=6E9F18)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
+![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-333333?style=flat-square&logo=render)
+
+**AI Development**
+
+AI API Integration · AI-Assisted Development · Codex · Gemini
 
 ---
 
-## ⚡ Fun Fact
+## Featured Projects
 
-My keyboard knows the shortcut Ctrl + Z better than I know my own phone number😂
+### Almost — Museum of Mistakes
+
+**AI-Integrated Educational Platform | Hackathon 3rd Place 🥉**
+
+A full-stack educational platform designed around the idea that mistakes are opportunities to learn.
+
+- Integrated AI-powered functionality into the learning experience.
+- Built interactive features using React, Node.js, Express, and MongoDB.
+- Led a three-member development team through planning, implementation, and delivery.
+- Awarded **3rd Place** at the *Imagine Education in the Future* Hackathon.
+
+**Tech:** React · JavaScript · Node.js · Express · MongoDB · AI Integration
+
+[Live Demo](https://almost-web.netlify.app/) · [Source Code](https://github.com/nagam6/almost)
+
+---
+
+### Circlo — Peer-to-Peer Rental Marketplace
+
+A full-stack marketplace designed to make borrowing and renting everyday items easier.
+
+- Developed frontend and backend functionality for a rental marketplace.
+- Worked with REST APIs, authentication, and database-driven features.
+- Coordinated development tasks and collaborated with a three-member project team.
+
+**Tech:** React · Node.js · Express · MongoDB
+
+[Live Demo](https://circlo-web.netlify.app/) · [Source Code](https://github.com/nagam6/circlo)
+
+---
+
+### AccessHub — Access Management Application
+
+An independently developed web application focused on authentication and access management.
+
+- Built using React and Firebase.
+- Worked with authentication flows and cloud-based services.
+- Managed the project independently from development to deployment.
+
+**Tech:** React · Firebase · JavaScript
+
+[Live Demo](https://accesshub-web.netlify.app/) · [Source Code](https://github.com/nagam6/accesshub)
+
+---
+
+## Engineering Experience
+
+Beyond building applications from scratch, I've worked on maintaining and improving existing software through:
+
+- Bug investigation and resolution
+- Regression testing and test maintenance
+- REST API improvements
+- Code refactoring and optimization
+- Collaborative development and pull request workflows
+
+---
+
+## Let's Connect
+
+I'm interested in software engineering opportunities where I can contribute to building and improving real-world applications.
+
+**GitHub:** [github.com/nagam6](https://github.com/nagam6)
+
+
